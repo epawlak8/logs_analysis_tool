@@ -1,5 +1,9 @@
 # SQL Reporting Tool
 A tool created for the Udacity Logs Analysis Project
+The tool takes sql server data and answers the following questions:
+1) What are the most popular three articles of all time?
+2) Who are the most popular article authors of all time?
+3) On which days did more than 1% of requests lead to errors? 
 
 ## Getting Started
 Move the project folder to a folder accessible by your vagrant machine
